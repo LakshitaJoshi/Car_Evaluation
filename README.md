@@ -7,6 +7,10 @@ Citation: Bohanec, M. (1988). Car Evaluation [Dataset]. UCI Machine Learning Rep
 - Number of features: 6
 - Number of Classes: 4
 
+## Goal
+To classify the cars as **unacceptable, acceptable, good, very good** based on the following features:  
+**buying price, price of the maintenance, number of doors, capacity in terms of persons to carry, size of luggage boot** and **estimated safety of the car.**
+
 ## Algorithm Used
 - Decision Tree
 
@@ -16,5 +20,5 @@ Citation: Bohanec, M. (1988). Car Evaluation [Dataset]. UCI Machine Learning Rep
    - Evaluate model performance using accuracy, precision, recall, etc.
 
 ## Results
-**Train Accuracy:** 0.858560794044665
-**Test Accuracy: 0.8458574181117534**
+**Train Accuracy:** 0.858560794044665 <br>
+**Test Accuracy:** 0.8458574181117534
