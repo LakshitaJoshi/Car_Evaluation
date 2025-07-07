@@ -1,6 +1,6 @@
 # Car_Evaluation - Task 1 | Internship @ CodTech IT Solutions
 
-##Internship Details
+## Internship Details
 Project Title: BUILD AND VISUALIZE A DECISION TREE MODEL USING SCIKIT-LEARN TO CLASSIFY OR PREDICT OUTCOMES ON A CHOSEN DATASET <br>
 Company: CodTech IT Solutions <br>
 Name: Lakshita Joshi <br>
