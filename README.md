@@ -1,4 +1,15 @@
-# Car_Evaluation
+# Car_Evaluation - Task 1 | Internship @ CodTech IT Solutions
+
+##Internship Details
+Project Title: BUILD AND VISUALIZE A DECISION TREE MODEL USING SCIKIT-LEARN TO CLASSIFY OR PREDICT OUTCOMES ON A CHOSEN DATASET
+Company: CodTech IT Solutions
+Name: Lakshita Joshi
+Intern ID: CT04DF2911
+Domain: Machine Learning
+Duration: 4 Weeks
+Mentor: Neela Santosh
+
+
 ## Dataset: [UCI](https://archive.ics.uci.edu/dataset/19/car+evaluation)
 Citation: Bohanec, M. (1988). Car Evaluation [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5JP48.
 
