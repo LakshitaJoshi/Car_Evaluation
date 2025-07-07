@@ -1,13 +1,13 @@
 # Car_Evaluation - Task 1 | Internship @ CodTech IT Solutions
 
 ##Internship Details
-Project Title: BUILD AND VISUALIZE A DECISION TREE MODEL USING SCIKIT-LEARN TO CLASSIFY OR PREDICT OUTCOMES ON A CHOSEN DATASET
-Company: CodTech IT Solutions
-Name: Lakshita Joshi
-Intern ID: CT04DF2911
-Domain: Machine Learning
-Duration: 4 Weeks
-Mentor: Neela Santosh
+Project Title: BUILD AND VISUALIZE A DECISION TREE MODEL USING SCIKIT-LEARN TO CLASSIFY OR PREDICT OUTCOMES ON A CHOSEN DATASET <br>
+Company: CodTech IT Solutions <br>
+Name: Lakshita Joshi <br>
+Intern ID: CT04DF2911 <br>
+Domain: Machine Learning <br>
+Duration: 4 Weeks <br>
+Mentor: Neela Santosh 
 
 
 ## Dataset: [UCI](https://archive.ics.uci.edu/dataset/19/car+evaluation)
